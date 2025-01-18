@@ -1,6 +1,7 @@
 # Birthday Reminder Application
 
-<img width="674" alt="BC" src="https://github.com/user-attachments/assets/86d05bea-4f3e-4b20-b591-6198d3ac1bc1" />
+<img width="674" alt="BC" src="https://github.com/user-attachments/assets/cf11734e-4161-44fa-8c5e-42459d75c07a" />
+
 
 The birthdays are automatically sorted to show the next upcoming birthday first, and the days until each birthday are calculated dynamically. The data persists in the browser's local storage, so the birthdays will remain even after closing the browser.
 
